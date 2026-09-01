@@ -34,11 +34,10 @@ Python • Git • GitHub • SQL
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=iggao"
+    src="https://streak-stats.demolab.com?user=iggao&theme=github-dark"
     alt="GitHub Streak"
   />
 </p>
-
 
 --- 
 
