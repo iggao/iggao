@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Pão Macinha
+# 👋 Olá, eu sou Igor Apocalypse Jardim
 
 Tenho 18 anos e sou recém-formado em Python Avançado.
 
