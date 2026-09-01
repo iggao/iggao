@@ -34,7 +34,7 @@ Python • Git • GitHub • SQL
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+    src="![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO)
     alt="Github Streak"
   />
 </p>
