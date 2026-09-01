@@ -68,6 +68,12 @@ Python • Git • GitHub • SQL
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=iggao&theme=github-dark"
+    alt="GitHub Streak"
+  />
+</p>
 
 <a href="mailto:iapocalypse2407@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
