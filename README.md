@@ -28,7 +28,6 @@ Python • Git • GitHub • SQL
 - Git & GitHub
 - Desenvolvimento Web
 
-### ⚙️ GitHub Analytics
 
 ## ⚙️ GitHub Analytics
 
