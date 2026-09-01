@@ -75,9 +75,9 @@ Python • Git • GitHub • SQL
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://wa.me/11971798911">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
-  </a>
+<a href="https://wa.me/5511971798911">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
 <a href="https://www.instagram.com/iggao.ap/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
