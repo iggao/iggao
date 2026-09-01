@@ -34,7 +34,7 @@ Python • Git • GitHub • SQL
 
 <p align="center">
   <img
-    src="![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO)
+    src="![GitHub Streak](https://streak-stats.demolab.com?user=iggao)
     alt="Github Streak"
   />
 </p>
