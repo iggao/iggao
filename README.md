@@ -11,6 +11,10 @@ Tenho 18 anos e sou recém-formado em Python Avançado.
 ## 🛠️ Minha Stack
 
 Python • Git • GitHub • SQL
+
+
+
+
 <a href="mailto:SEUEMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
