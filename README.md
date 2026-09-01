@@ -1,14 +1,16 @@
-# 👋 Olá! Eu sou Igor Apocalypse
+# 👋 Olá, eu sou Pão Macinha
 
-Tenho 18 anos e sou recém-formado em **Python Avançado**.  
-Atualmente estou focado em aprimorar minhas habilidades em programação, desenvolver projetos e aprender cada vez mais sobre tecnologia.
+Tenho 18 anos e sou recém-formado em Python Avançado.
 
-🦄 Linguagens: **Python - HTML**
+## 🚀 Sobre mim
 
-💼 Ferramentas: **Claude Code - VsCode - Jupyter**
+- 🐍 Python
+- 💻 Desenvolvimento de sistemas
+- 📚 Sempre aprendendo coisas novas
 
-💌 Aqui vai uma mensagem para entrar em contato com você: ⬇️
+## 🛠️ Minha Stack
 
+Python • Git • GitHub • SQL
 <a href="mailto:SEUEMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
