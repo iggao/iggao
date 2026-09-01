@@ -63,7 +63,7 @@ Python • Git • GitHub • SQL
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=iggao&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=iggao&label=PROFILE+VIEWS&color=21262d&style=for-the-badge&labelColor=0d1117"
     alt="Profile Views"
   />
 </p>
