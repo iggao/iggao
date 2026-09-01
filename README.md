@@ -41,20 +41,16 @@ Python • Git • GitHub • SQL
 
 --- 
 
-### 🏆 GitHub Profile Trophy
+<h3 align="center">🏆 GitHub Profile Trophy</h3>
 
 <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Repositório de troféus">
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=iggao&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
-
 ---
 
 <div align="center">
