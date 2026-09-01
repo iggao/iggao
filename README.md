@@ -30,18 +30,14 @@ Python • Git • GitHub • SQL
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+    alt="Github Streak"
+  />
+</p>
 
 
 --- 
