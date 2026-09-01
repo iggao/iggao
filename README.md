@@ -64,14 +64,7 @@ Python • Git • GitHub • SQL
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/iggao/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=iggao&theme=github-dark"
-    alt="GitHub Streak"
+    alt="Profile Visitor Count"
   />
 </p>
 
