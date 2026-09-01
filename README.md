@@ -67,9 +67,9 @@ Python • Git • GitHub • SQL
 
 <div align="center">
 
-  <a href="mailto:iapocalypse2407@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
+<a href="mailto:iapocalypse2407@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
   <a href="https://www.linkedin.com/in/SEUUSUARIO/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
@@ -79,8 +79,8 @@ Python • Git • GitHub • SQL
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
   </a>
 
-  <a href="https://instagram.com/iggaoo.ap">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
+<a href="https://www.instagram.com/iggaoo.ap/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+</a>
 
 </div>
