@@ -63,8 +63,8 @@ Python • Git • GitHub • SQL
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iggao/count.svg"
-    alt="Profile Visitor Count"
+    src="https://komarev.com/ghpvc/?username=iggao&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"
+    alt="Profile Views"
   />
 </p>
 
