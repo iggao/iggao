@@ -64,7 +64,7 @@ Python • Git • GitHub • SQL
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/iggao/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
