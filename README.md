@@ -12,6 +12,24 @@ Tenho 18 anos e sou recém-formado em Python Avançado.
 
 Python • Git • GitHub • SQL
 
+## 🚀 Projetos em Destaque
+
+🔹 **Sistema de Gerenciamento**
+> Sistema desenvolvido em Python para gerenciamento de dados.
+
+🔹 **Automação**
+> Projeto de automação utilizando Python para otimizar tarefas repetitivas.
+
+🔹 **[Nome do Projeto]**
+> Breve descrição do que o projeto faz.
+
+## 📚 Atualmente estudando
+
+- Python avançado
+- SQL
+- APIs
+- Git & GitHub
+- Desenvolvimento Web
 
 
 
