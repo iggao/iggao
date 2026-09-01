@@ -79,7 +79,7 @@ Python • Git • GitHub • SQL
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
   </a>
 
-<a href="https://www.instagram.com/iggaoo.ap/">
+<a href="https://www.instagram.com/iggao.ap/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
 </a>
 
