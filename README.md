@@ -20,9 +20,6 @@ Python • Git • GitHub • SQL
 🔹 **Automação**
 > Projeto de automação utilizando Python para otimizar tarefas repetitivas.
 
-🔹 **[Nome do Projeto]**
-> Breve descrição do que o projeto faz.
-
 ## 📚 Atualmente estudando
 
 - Python avançado
